@@ -13,8 +13,6 @@ const routes: Routes = [
     { path: 'work', component: WorkComponent },
     { path: 'contact', component: ContactMeComponent }
   ] },
-  // { path: 'home', component: HomeComponent},
-  // {path: 'about', component:AboutComponent},
   { path: '**', redirectTo:"about", pathMatch:'full' }
 ];
 
