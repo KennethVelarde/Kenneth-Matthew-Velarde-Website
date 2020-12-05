@@ -20,8 +20,13 @@ body{
 #experience{
     background-color: aliceblue;
     height:100vh;
-    /* position:relative; */
-    padding: 3%;
-    
-    /* width:100vw; */
+}
+
+#exp_heading{
+    padding:2%;
+    font-size: 3rem;
+}
+
+.exp_section{
+    padding: 5% 15% 0 15%;
 }
