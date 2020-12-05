@@ -12,14 +12,16 @@ body{
     background-image: url("../images/gears_background.png");
     height:100vh;
     width:100vw;
-    /* margin:auto; */
 }
+.title_section{
+    padding: 20%;
+}
+
 #experience{
     background-color: aliceblue;
     height:100vh;
+    /* position:relative; */
+    padding: 3%;
     
     /* width:100vw; */
-}
-.exp_section{
-    position:absolute;
 }
