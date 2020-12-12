@@ -27,3 +27,18 @@ body{
 .exp_section{
     padding: 5% 15% 0 15%;
 }
+
+#education{
+    background-color: #405983;
+    height:100vh;
+}
+
+#hobbies{
+    background-color:#ffdd83;
+    height:100vh;
+}
+
+#projects{
+    background-color:#f56262;
+    height:100vh;
+}
