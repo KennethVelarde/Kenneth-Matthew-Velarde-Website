@@ -1,44 +1,4 @@
-html,
-body{
-    height:100%;
-    margin:0;
-    text-align: center;
-}
 
-#title{
-    background-color: #faf3dd;
-    /* background-image: url("../images/gears_background.png"); */
-    height:100vh;
-}
-.title_section{
-    padding: 20%;
-}
-
-#experience{
-    background-color: aliceblue;
-    height:100vh;
-}
-
-#exp_heading{
-    padding:2%;
-    font-size: 3rem;
-}
-
-.exp_section{
-    padding: 5% 15% 0 15%;
-}
-
-#education{
-    background-color: #405983;
-    height:100vh;
-}
-
-#hobbies{
-    background-color:#ffdd83;
-    height:100vh;
-}
-
-#projects{
-    background-color:#f56262;
-    height:100vh;
+.navigation-bg{
+    background-color: #132743;
 }
