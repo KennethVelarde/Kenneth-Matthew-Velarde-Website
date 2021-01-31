@@ -1,4 +1,15 @@
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css");
 
-.navigation-bg{
-    background-color: #132743;
+.title{
+    background-color: #f8efd4;
+    height: 100vh;
+    text-align:center;
+}
+
+.landing-section{
+    /* text-align:center; */
+    position:relative;
+    /* width:5%; */
+    background-color: red;
+    margin: 0 auto;
 }
