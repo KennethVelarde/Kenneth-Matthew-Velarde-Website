@@ -17,3 +17,7 @@
     transform: translateY(-50%);
 
 }
+
+.landing-page-links{
+    display: inline-block;
+}
