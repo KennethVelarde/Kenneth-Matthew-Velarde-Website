@@ -1,9 +1,13 @@
 @import url("https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css");
 
+html, body{
+    /* background-color:#0b409c; */
+    background-color:ivory;
+}
 .landing-section-wrapper{
     background-color: yellow;
     position: absolute;
-    height: 500px;
+    height: 400px;
     width: 550px;
     top: 50%;
     left: 50%;
@@ -11,6 +15,7 @@
 }
 
 .landing-section-text{
+    line-height: 1.5;
     position: relative;
     top: 50%;
     text-align: center;
@@ -20,4 +25,17 @@
 
 .landing-page-links{
     display: inline-block;
+}
+
+.nav-link{
+    font-size: 24px;
+    color:white;
+}
+
+a{
+    color:black;
+    padding: 5px;
+}
+a:hover{
+    color:white;
 }
